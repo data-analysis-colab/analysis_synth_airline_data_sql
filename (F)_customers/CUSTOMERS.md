@@ -1,4 +1,4 @@
-# Detailed Documentation: Customer Behavior
+# Detailed Documentation: Customer Behavior Analysis
 
 ## Goal
 
