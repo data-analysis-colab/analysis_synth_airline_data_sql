@@ -204,4 +204,4 @@ multidimensional performance analysis in the airline industry.
 </details>
 
 ## Authors
-Jan H. Schüttler (Linkedin), Behzad Nematipour (Linkedin)
+Jan H. Schüttler (Linkedin), Behzad Nematipour ([linkedin](https://linkedin.com/in/behzad-nematipour-99b8b4399))
